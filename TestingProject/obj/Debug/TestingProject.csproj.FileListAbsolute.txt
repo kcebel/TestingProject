@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TestingProject\TestingProject\bin\Debug\TestingProject.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TestingProject\TestingProject\bin\Debug\TestingProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TestingProject\TestingProject\bin\Debug\TestingProject.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\TestingProject\TestingProject\obj\Debug\TestingProject.pdb
