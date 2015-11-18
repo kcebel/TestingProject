@@ -10,6 +10,7 @@ namespace TestingProject
     {
         static void Main(string[] args)
         {
+            //Trying to git this
             string[] words = { "hello", "wonderful", "LINQ", "beautiful", "world" };
             //Get only short words
             var shortWords = from word in words
